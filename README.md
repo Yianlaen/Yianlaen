@@ -1,10 +1,6 @@
 ## Hi there / 你好 👋
 
-Learning, and trying not to do regretful things.
-
-An undergraduate at SUSTech in China. A member of its ICPC team.
-
-Likes FPV quads as well as fixed wings, and other radio controlled toys.
+Learning as an undergraduate at SUSTech in China.
 
 <!--
 **Yianlaen/Yianlaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
