@@ -1,6 +1,14 @@
 ## Hi there / 你好 👋
 
-Learning as an undergraduate at SUSTech in China.
+I'm currently learning as an undergraduate at SUSTech in China.
+
+In high school I participated in olympiad in informatics, and had some experience with coding.
+
+I got a silver from NOI 2022. I also tried to modify an existing online judge system to deploy it in our campus.
+
+In university I participated in ICPC World Finals 2025 and due to some bad luck we only got Honors.
+
+Now I'm trying to learn some deep learning and eventually, do something new.
 
 <!--
 **Yianlaen/Yianlaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
