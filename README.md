@@ -4,13 +4,10 @@ I'm currently learning as an undergraduate at SUSTech in China.
 
 I'm trying to learn some deep learning. I wish I could do some related research in the future.
 
-### My experiences
+In case people here might happen to know me by my experiences in competitive programming:
 
-In high school I participated in olympiad in informatics, and started to have some experience with coding.
-
-I got a silver from NOI 2022. I also tried to modify an existing online judge system to deploy it in our campus. These things are fun.
-
-In university I participated in ICPC World Finals 2025 and got Honors.
+- In high school I participated in olympiad in informatics, and started to have some experience with coding. I went to the national finals, it was fun.
+- In university I took part in ICPC and advanced to the finals, but unfortunately we played bad and just got Honors.
 
 <!--
 **Yianlaen/Yianlaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
